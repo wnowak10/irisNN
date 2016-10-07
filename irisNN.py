@@ -84,3 +84,5 @@ ans = sess.run(y, feed_dict={x: X_test})
 print(y_test[0:3])
 print("Correct prediction\n",ans[0:3])
 
+
+# correct upload?
